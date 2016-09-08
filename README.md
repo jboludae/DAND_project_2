@@ -3,3 +3,4 @@ HOW TO RUN THIS PROJECT
 - Open the "titanic_survival_analysis.pynb" using Jupyter Notebook
 - Kernel > Restart and Run All
 - Note: python libraries used include numpy, pandas, pyplot and seaborn
+- A "titalnic_survival_analysis.html" file was included
